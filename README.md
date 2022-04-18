@@ -43,6 +43,9 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 ## Website Link
 
+Check out the deployed link here: https://mighty-hollows-83687.herokuapp.com/
+
 ## Screenshot
 
 ## Contact
+[Saj Jeya on Github](https://github.com/sajees89)
