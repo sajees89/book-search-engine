@@ -2,6 +2,9 @@
 
 ## Description
 
+This week's challenge was to use Google Books API which was already built as full stack application. Had to 
+take the RESTful API and refactor it to be GraphQL API built with Apollo Server. The refactored site still 
+maintains the same appearance please check the link below. 
 
 ## User Story
 
@@ -46,6 +49,18 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 Check out the deployed link here: https://mighty-hollows-83687.herokuapp.com/
 
 ## Screenshot
+
+* Search for books on the page  
+
+
+
+* Create an user account to save books 
+
+
+
+* View all saved books while logged in  
+
+
 
 ## Contact
 [Saj Jeya on Github](https://github.com/sajees89)
