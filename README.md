@@ -52,15 +52,16 @@ Check out the deployed link here: https://mighty-hollows-83687.herokuapp.com/
 
 * Search for books on the page  
 
+![screenshot](https://github.com/sajees89/book-search-engine/blob/main/client/public/Homepage%20Books.png)
 
 
 * Create an user account to save books 
 
-
+![screenshot](https://github.com/sajees89/book-search-engine/blob/main/client/public/login%20SS.png)
 
 * View all saved books while logged in  
 
-
+![screenshot](https://github.com/sajees89/book-search-engine/blob/main/client/public/Saved%20books%20SS.png)
 
 ## Contact
 [Saj Jeya on Github](https://github.com/sajees89)
