@@ -3,6 +3,11 @@ import ReactDOM from 'react-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css';
 import App from './App';
+import { disableReactDevTools } from '@fvilers/disable-react-devtools';
+
+if (process.env.NODE_ENV !== 'production') {
+  disableReactDevTools();
+}
 
 ReactDOM.render(
   <React.StrictMode>
