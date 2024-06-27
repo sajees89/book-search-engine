@@ -46,7 +46,7 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 ## Website Link
 
-Check out the deployed link here: [https://book-search-engine-frontend-bxme.onrender.com]
+Check out the deployed link here: ([https://book-search-engine-frontend-bxme.onrender.com])
 ## Screenshot
 
 * Search for books on the page  
